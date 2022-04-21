@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/brodeway-build/static/css/main.48a5ad98.css",
-    "main.js": "/brodeway-build/static/js/main.dadcefcd.js",
+    "main.css": "/brodeway-build/static/css/main.8f8734f4.css",
+    "main.js": "/brodeway-build/static/js/main.eef612d9.js",
     "static/js/787.60ac42c1.chunk.js": "/brodeway-build/static/js/787.60ac42c1.chunk.js",
     "static/media/bootstrap-icons.woff?": "/brodeway-build/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/brodeway-build/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
@@ -9,12 +9,12 @@
     "static/media/purple.png": "/brodeway-build/static/media/purple.96fc55cb9f894b49497a.png",
     "static/media/green.png": "/brodeway-build/static/media/green.0597d600a5d5cbe865de.png",
     "index.html": "/brodeway-build/index.html",
-    "main.48a5ad98.css.map": "/brodeway-build/static/css/main.48a5ad98.css.map",
-    "main.dadcefcd.js.map": "/brodeway-build/static/js/main.dadcefcd.js.map",
+    "main.8f8734f4.css.map": "/brodeway-build/static/css/main.8f8734f4.css.map",
+    "main.eef612d9.js.map": "/brodeway-build/static/js/main.eef612d9.js.map",
     "787.60ac42c1.chunk.js.map": "/brodeway-build/static/js/787.60ac42c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48a5ad98.css",
-    "static/js/main.dadcefcd.js"
+    "static/css/main.8f8734f4.css",
+    "static/js/main.eef612d9.js"
   ]
 }
